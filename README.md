@@ -1,2 +1,1 @@
-# choose-your-adventure
-A basic choose your own adventure game
+<h1> Welcome to "Dragon's Den", a basic "Choose your own adventure" game!
